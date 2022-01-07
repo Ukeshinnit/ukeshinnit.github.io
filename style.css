@@ -1,0 +1,230 @@
+#insta {
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    background-color: rgb(255, 23, 255);
+}
+#discord {
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    right: 100px;
+    background-color: rgb(21, 142, 255);
+    color: aliceblue;
+}
+#github {
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    right: 170px;
+    background-color: black;
+    color: aliceblue;
+}
+ 
+#header {
+    position: absolute;
+    right: 500px;
+}
+
+#greet {
+    position: absolute;
+    left: 600px;
+    top: 50px;
+}
+
+#pfp {
+    position: absolute;
+    left: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+}
+
+#head2 {
+    position: absolute;
+    left: 5px;
+    top: 150px;
+    color: black;
+}
+#dattarya {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 10px;
+    top: 300px;
+}
+#win55 {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 350px;
+    top: 300px;
+}
+#mahal {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: 350px;
+    top: 300px;
+}
+#durbarsq {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: 10px;
+    top: 300px;
+}
+#flower {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 350px;
+    top: 600px;
+}
+#flower2 {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 10px;
+    top: 600px;
+}
+#doge {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: 350px;
+    top: 600px;
+}
+#plane {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    right: 10px;
+    top: 600px;
+}
+
+#desc {
+    position: absolute;
+    left: 5px;
+    top: 200px;
+}
+
+#darkmode {
+    position: absolute;
+    right: 5px;
+    top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#buho img {
+    width: 45px;
+    height: 35px;
+}
+
+#about {
+    position: absolute;
+    right: 600px;
+    font-weight: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#intro {
+    position: absolute;
+    right: 400px;
+    top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+}
+#ukeshinnit {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    position: absolute;
+    left: 100px;
+    top: 250px;
+}
+
+#instaid {
+    position: absolute;
+    left: 350px;
+    top: 250px;
+}
+#mail {
+    position: absolute;
+    left: 140px;
+    top: 450px;
+    
+}
+#em {
+    color:black;
+    
+}
+
+#info {
+    position: absolute;
+    left: 20px;
+    top: 500px;
+}
+
+#play {
+    position: absolute;
+    right: 5px;
+    top: 350px;
+}
+
+#music {
+    position: absolute;
+    left: 5px;
+    top: 650px;
+    width: 295px;
+    height: 211px;
+}
+
+#link {
+    color: red;
+    
+}
+
+#freepik {
+    position: absolute;
+    left: 5px;
+    top: 820px;
+}
